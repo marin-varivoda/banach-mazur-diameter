@@ -1,0 +1,10 @@
+__pycache__/
+*.jsonl.gz
+!search_result.jsonl.gz
+*.log
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+lean/.lake/
